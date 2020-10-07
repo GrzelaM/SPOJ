@@ -1,0 +1,1 @@
+# https://pl.spoj.com/problems/FR_02_12/
